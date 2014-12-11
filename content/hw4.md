@@ -5,3 +5,5 @@ title = "Ray Trace Using Arrays 10/2"
 
 +++
 
+View code <a href="https://github.com/irisyuan/old-graphics/tree/gh-pages/old-graphics/assignment4" target="_blank">here</a>.
+{{% figure src="https://raw.githubusercontent.com/irisyuan/old-graphics/gh-pages/old-graphics/images/4.gif" %}}
