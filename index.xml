@@ -1,0 +1,217 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+      <title>Recent Content on Iris Yuan Computer Graphics </title>
+      <generator uri="https://hugo.spf13.com">Hugo</generator>
+    <link>http://localhost:1313/graphics/index.xml/</link>
+    
+    
+    
+    <updated>Thu, 11 Dec 2014 01:57:50 EST</updated>
+    
+    <item>
+      <title>Three.js 12/23</title>
+      <link>http://localhost:1313/graphics/final/</link>
+      <pubDate>Thu, 11 Dec 2014 01:57:50 EST</pubDate>
+      
+      <guid>http://localhost:1313/graphics/final/</guid>
+      <description>&lt;p&gt;Final TBD!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Object 3D Perspective 12/4</title>
+      <link>http://localhost:1313/graphics/hw11/</link>
+      <pubDate>Thu, 11 Dec 2014 01:52:52 EST</pubDate>
+      
+      <guid>http://localhost:1313/graphics/hw11/</guid>
+      <description>&lt;p&gt;View code &lt;a href=&#34;https://github.com/irisyuan/old-graphics/tree/gh-pages/old-graphics/assignment11&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://raw.githubusercontent.com/irisyuan/old-graphics/gh-pages/old-graphics/images/11.gif&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Parametric Animation 11/20</title>
+      <link>http://localhost:1313/graphics/hw10/</link>
+      <pubDate>Thu, 11 Dec 2014 01:52:50 EST</pubDate>
+      
+      <guid>http://localhost:1313/graphics/hw10/</guid>
+      <description>&lt;p&gt;View code &lt;a href=&#34;https://github.com/irisyuan/old-graphics/tree/gh-pages/old-graphics/assignment10&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://raw.githubusercontent.com/irisyuan/old-graphics/gh-pages/old-graphics/images/10.gif&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Matrix Class Animation 11/13</title>
+      <link>http://localhost:1313/graphics/hw9/</link>
+      <pubDate>Thu, 11 Dec 2014 01:52:48 EST</pubDate>
+      
+      <guid>http://localhost:1313/graphics/hw9/</guid>
+      <description>&lt;p&gt;View code &lt;a href=&#34;https://github.com/irisyuan/old-graphics/tree/gh-pages/old-graphics/assignment9&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://raw.githubusercontent.com/irisyuan/old-graphics/gh-pages/old-graphics/images/9.gif&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>HTML5 Canvas 11/6</title>
+      <link>http://localhost:1313/graphics/hw8/</link>
+      <pubDate>Thu, 11 Dec 2014 01:52:43 EST</pubDate>
+      
+      <guid>http://localhost:1313/graphics/hw8/</guid>
+      <description>&lt;p&gt;View code &lt;a href=&#34;https://github.com/irisyuan/old-graphics/tree/gh-pages/old-graphics/assignment8&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://raw.githubusercontent.com/irisyuan/old-graphics/gh-pages/old-graphics/images/8.gif&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Javascript Matrix Class 10/30</title>
+      <link>http://localhost:1313/graphics/hw7/</link>
+      <pubDate>Thu, 11 Dec 2014 01:52:40 EST</pubDate>
+      
+      <guid>http://localhost:1313/graphics/hw7/</guid>
+      <description>&lt;p&gt;View code &lt;a href=&#34;https://github.com/irisyuan/old-graphics/tree/gh-pages/old-graphics/assignment7&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://raw.githubusercontent.com/irisyuan/old-graphics/gh-pages/old-graphics/images/7.gif&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Turbulent Shader 10/23</title>
+      <link>http://localhost:1313/graphics/hw6/</link>
+      <pubDate>Thu, 11 Dec 2014 01:52:37 EST</pubDate>
+      
+      <guid>http://localhost:1313/graphics/hw6/</guid>
+      <description>&lt;p&gt;View code &lt;a href=&#34;https://github.com/irisyuan/old-graphics/tree/gh-pages/old-graphics/assignment6&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://raw.githubusercontent.com/irisyuan/old-graphics/gh-pages/old-graphics/images/6.gif&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Basic Phong Shader &amp; Chalktalk Idea 10/16</title>
+      <link>http://localhost:1313/graphics/hw5/</link>
+      <pubDate>Thu, 11 Dec 2014 01:52:34 EST</pubDate>
+      
+      <guid>http://localhost:1313/graphics/hw5/</guid>
+      <description>&lt;p&gt;View code &lt;a href=&#34;https://github.com/irisyuan/old-graphics/tree/gh-pages/old-graphics/assignment5&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://raw.githubusercontent.com/irisyuan/old-graphics/gh-pages/old-graphics/images/5.gif&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://raw.githubusercontent.com/irisyuan/old-graphics/gh-pages/old-graphics/images/5b.gif&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ray Trace Using Arrays 10/2</title>
+      <link>http://localhost:1313/graphics/hw4/</link>
+      <pubDate>Thu, 11 Dec 2014 01:52:30 EST</pubDate>
+      
+      <guid>http://localhost:1313/graphics/hw4/</guid>
+      <description>&lt;p&gt;View code &lt;a href=&#34;https://github.com/irisyuan/old-graphics/tree/gh-pages/old-graphics/assignment4&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://raw.githubusercontent.com/irisyuan/old-graphics/gh-pages/old-graphics/images/4.gif&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Ray Trace Basics 9/25</title>
+      <link>http://localhost:1313/graphics/hw3/</link>
+      <pubDate>Thu, 11 Dec 2014 01:52:24 EST</pubDate>
+      
+      <guid>http://localhost:1313/graphics/hw3/</guid>
+      <description>&lt;p&gt;View code &lt;a href=&#34;https://github.com/irisyuan/old-graphics/tree/gh-pages/old-graphics/assignment3&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://raw.githubusercontent.com/irisyuan/old-graphics/gh-pages/old-graphics/images/3.gif&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Fragment Shader Piano 9/18</title>
+      <link>http://localhost:1313/graphics/hw2/</link>
+      <pubDate>Thu, 11 Dec 2014 01:52:19 EST</pubDate>
+      
+      <guid>http://localhost:1313/graphics/hw2/</guid>
+      <description>&lt;p&gt;View code &lt;a href=&#34;https://github.com/irisyuan/old-graphics/tree/gh-pages/old-graphics/assignment2&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://raw.githubusercontent.com/irisyuan/old-graphics/gh-pages/old-graphics/images/2.gif&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>First Fragment Shader 9/11</title>
+      <link>http://localhost:1313/graphics/hw1/</link>
+      <pubDate>Thu, 11 Dec 2014 01:30:51 EST</pubDate>
+      
+      <guid>http://localhost:1313/graphics/hw1/</guid>
+      <description>&lt;p&gt;View code &lt;a href=&#34;https://github.com/irisyuan/old-graphics/tree/gh-pages/old-graphics/assignment1&#34; target=&#34;_blank&#34;&gt;here&lt;/a&gt;.&lt;/p&gt;
+
+&lt;figure &gt;
+    
+        &lt;img src=&#34;https://raw.githubusercontent.com/irisyuan/old-graphics/gh-pages/old-graphics/images/1.gif&#34;  /&gt;
+    
+    
+&lt;/figure&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
